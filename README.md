@@ -1,4 +1,4 @@
-## 하루 1 개의 commit 남기기
+## 모두를 위한 딥러닝 - tensorflow
 
-- 그 날 배운 수업내용 정리해서 commit 남기기
-- 주말엔 복습 후 commit 남기기
+이 repository는 youtube sungkim 채널의 강의를 보고 정리하는 repo입니다.
+참고 : https://deeplearningzerotoall.github.io/season2/lec_tensorflow.html
